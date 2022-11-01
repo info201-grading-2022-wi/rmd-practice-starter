@@ -5,6 +5,4 @@ In this activity, you should follow the steps in the `analysis.R` file, then cre
 - Write a short paragraph where you state the number of COVID cases and deaths (calculated in your analysis)
 - Display the chart that you created
 
-Then, click the `knit` button to compile your file to a webpage. To view the page on the web, push your code up to GitHub, then visit:
-
-http://info201a-w21.github.io/rmd-YOUR-USER-NAME
+Then, click the `knit` button to compile your file to a webpage. To view the page on the web, push your code up to /docs on GitHub
